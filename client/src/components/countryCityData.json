@@ -1,0 +1,16 @@
+{
+  "countries": [
+    {
+      "name": "Iraq",
+      "cities": ["Baghdad", "Basra", "Erbil"]
+    },
+    {
+      "name": "UAE",
+      "cities": ["Dubai", "Abu Dhabi", "Sharjah"]
+    },
+    {
+      "name": "Turkey",
+      "cities": ["Istanbul", "Ankara", "Izmir"]
+    }
+  ]
+}
